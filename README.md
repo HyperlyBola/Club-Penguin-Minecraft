@@ -7,9 +7,11 @@ INSTRUCTIONS:
 * ONLY download drag the minecraft folder into your chosen minecraft directory
 * Check keybindings and configs to be sure they all work
 
+![alt text](https://i.imgur.com/U2BxWxZ.gif)
+
 Unused Mods:
 * Inmis (Backpacks)
 * Dustrial Decor
 * Paintings
 
-![alt text](https://i.imgur.com/U2BxWxZ.gif)
+
