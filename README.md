@@ -1,7 +1,7 @@
 modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric
 
-**MC Version:** 1.18.2
-**Min allocated RAM:** 4G
+- **MC Version:** 1.18.2
+- **Min allocated RAM:** 4G
 
 ## INSTRUCTIONS:
 * Please install https://gdevs.io/# and make a separate instance of minecraft (OPTIONAL)
