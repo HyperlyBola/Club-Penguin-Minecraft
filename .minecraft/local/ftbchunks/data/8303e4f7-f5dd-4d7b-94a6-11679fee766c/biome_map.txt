@@ -1,0 +1,16 @@
+#6C5 byg:aspen_forest
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#109 minecraft:deep_cold_ocean
+#705 minecraft:deep_frozen_ocean
+#292 minecraft:frozen_ocean
+#3A0 minecraft:frozen_river
+#3DC minecraft:plains
+#5C1 byg:red_oak_forest
+#5FF minecraft:river
+#3B8 byg:shattered_glacier
+#72D minecraft:snowy_beach
+#4E5 minecraft:snowy_plains
+#340 minecraft:snowy_taiga
+#282 byg:twilight_meadow
+#1DB byg:weeping_witch_forest
