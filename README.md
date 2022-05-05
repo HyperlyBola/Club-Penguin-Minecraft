@@ -1,3 +1,4 @@
+W.I.P SERVER VERSION
 modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecraft/modpacks/better-minecraft-fabric
 
 - **MC Version:** 1.18.2
