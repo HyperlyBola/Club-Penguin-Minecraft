@@ -1,0 +1,14 @@
+#368 byg:allium_fields
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#3D6 minecraft:cold_ocean
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#286 minecraft:grove
+#2D6 minecraft:meadow
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#5C1 byg:red_oak_forest
+#5FF minecraft:river
+#51A minecraft:stony_shore

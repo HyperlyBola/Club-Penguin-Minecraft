@@ -1,0 +1,56 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = resourcepacks/Graphics/loading.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  barcolor = 76bbd4
+}
+
+customization {
+  orientation = top-left
+  name = slideshow
+  x = 0
+  width = %guiwidth%
+  actionid = b101f538-7df5-445d-99be-34ca50c692ef1651194325854
+  action = addslideshow
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  path = resourcepacks/Graphics/studio.png
+  orientation = top-right
+  x = -15
+  width = 177
+  action = addtexture
+  actionid = e838ae4e-a0ce-4814-bbaf-738553449ad81638451706674
+  y = 9
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  x = 0
+  width = 481
+  actionid = d151a0de-3ecd-4a2c-8e9c-ac534c60adf41651194363177
+  y = -60
+  action = addcustomprogressbar
+  height = 10
+  direction = right
+  barcolor = #76bbd4
+  backgroundcolor = #5c5c5c80
+}
+
