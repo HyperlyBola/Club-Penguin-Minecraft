@@ -15,6 +15,7 @@ Unused Mods:
 * Inmis (Backpacks)
 * Dustrial Decor
 * Paintings
+* Goblin Traders
 
 
 by hyperlybola
