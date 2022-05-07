@@ -2,7 +2,7 @@
   "armorEnable": true,
   "armorHideWhenEmpty": true,
   "armorHideEmptySlots": false,
-  "toughnessEnable": true,
+  "toughnessEnable": false,
   "toughnessHideWhenEmpty": true,
   "toughnessHideEmptySlots": false,
   "armorBarOffset": 0,
