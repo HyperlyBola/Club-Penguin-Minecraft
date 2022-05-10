@@ -11,7 +11,7 @@ Modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecra
 * Right click on the new instance and Open Folder ----------------------------------------------------------------------
 ![alt text](https://i.imgur.com/onqU50Q.png)
 
-* Extract the contents of the minecraft folder into your chosen minecraft directory
+* Go to https://github.com/HyperlyBola/Club-Penguin-Minecraft/releases and install the latest version. (Ignore source code)
 * Check keybindings and configs to be sure they all work
 
 ![alt text](https://i.imgur.com/U2BxWxZ.gif)
