@@ -17,13 +17,4 @@ Modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecra
 
 ![alt text](https://i.imgur.com/U2BxWxZ.gif)
 
-Unused Mods:
-* Inmis (Backpacks)
-* Dustrial Decor
-* Paintings
-* Goblin Traders
-* More Babies
-* Sit
-
-
 by hyperlybola
