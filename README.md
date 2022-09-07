@@ -6,7 +6,7 @@ Modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecra
 ## INSTRUCTIONS:
 * Please install https://gdevs.io/# and make a separate instance of minecraft
 * Launch GDLauncher and automatically install Java versions if prompted.
-* Click the + on the bottom left and add a new Minecraft Instance, select Fabric 0.14.4 or later
+* Click the + on the bottom left and add a new Minecraft Instance, select Fabric 0.14.9 or later
   ![alt text](https://i.imgur.com/J2NBkDf.png)
 * Right click on the new instance and Open Folder ----------------------------------------------------------------------
 ![alt text](https://i.imgur.com/onqU50Q.png)
