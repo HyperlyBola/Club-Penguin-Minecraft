@@ -1,5 +1,6 @@
 {
   "debugMode": false,
   "generationOres": true,
-  "useMixins": false
+  "useMixins": false,
+  "sizeChange": false
 }

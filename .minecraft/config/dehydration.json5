@@ -5,7 +5,7 @@
 	"hydrating_factor": 1.5,
 	// Defines the rate of the thirst effect's drain, smaller variable = less draining
 	"thirst_effect_factor": 0.032999999821186066,
-	"potion_thirst_quench": 2,
+	"potion_thirst_quench": 6,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
 	"potion_bad_thirst_chance": 0.25,
 	// Counted in ticks, 20 ticks = 1 second
@@ -13,19 +13,21 @@
 	"milk_thirst_quench": 8,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
 	"milk_thirst_chance": 0.4000000059604645,
-	"stew_thirst_quench": 3,
+	// Applies on items added to the drinks tag
+	"drinks_thirst_quench": 2,
+	"stew_thirst_quench": 4,
 	// Applies to only food tagged with: #hydrating_food
-	"food_thirst_quench": 1,
-	"flask_thirst_quench": 4,
+	"food_thirst_quench": 3,
+	"flask_thirst_quench": 5,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
-	"flask_dirty_thirst_chance": 0.75,
+	"flask_dirty_thirst_chance": 0.5,
 	// Counted in ticks, 20 ticks = 1 second
-	"flask_dirty_thirst_duration": 500,
-	"water_souce_quench": 1,
+	"flask_dirty_thirst_duration": 300,
+	"water_souce_quench": 2,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
 	"water_sip_thirst_chance": 0.75,
 	// Counted in ticks, 20 ticks = 1 second
-	"water_sip_thirst_duration": 600,
+	"water_sip_thirst_duration": 300,
 	"allow_non_flowing_water_sip": false,
 	"sleep_thirst_consumption": 4,
 	"sleep_hunger_consumption": 2,
