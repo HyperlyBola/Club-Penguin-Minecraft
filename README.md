@@ -17,4 +17,7 @@ Modified version of Better Minecraft [Fabric] https://www.curseforge.com/minecra
 
 ![alt text](https://i.imgur.com/U2BxWxZ.gif)
 
+## Video Tutorial
+[![Video Tutorial](https://img.youtube.com/vi/uUHo1e91Gqg/0.jpg)](https://www.youtube.com/watch?v=uUHo1e91Gqg "Installation Video")
+
 by hyperlybola
